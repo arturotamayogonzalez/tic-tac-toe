@@ -1,0 +1,8 @@
+
+Intrucciones:
+    1.- Ejecutar el archivo a partir de Load o copiar y pegar el codigo directamente en el interprete
+    2.- Ejecutar la funcion (tic-tac-toe)
+    3.- El programa te pedira si quieres tirar primero o no ingresaras "y" (si) o "n" (no)
+    4.- Segun sea el caso, ingresaras el numero de casilla donde quieres tirar o la computadora tirara y asi consecutivamente 
+    5.- El juego se dentendra cuando se empate o gane algun jugador 
+    6.- Para jugar de nuevo tendran que teclear la funcion (tic-tac-toe)
